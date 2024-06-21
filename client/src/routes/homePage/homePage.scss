@@ -33,6 +33,10 @@
         @include lg {
           font-size: 48px;
         }
+
+        span{
+          color: rgba(33, 52, 224, 0.765);
+        }
       }
 
       .boxes {
