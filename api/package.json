@@ -12,11 +12,16 @@
   "license": "ISC",
   "dependencies": {
     "@prisma/client": "^5.11.0",
+    "axios": "^1.7.2",
     "bcrypt": "^5.1.1",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
+    "dompurify": "^3.1.5",
     "express": "^4.19.2",
     "jsonwebtoken": "^9.0.2",
-    "prisma": "^5.15.1"
+    "prisma": "^5.15.1",
+    "react-router-dom": "^6.23.1",
+    "socket.io": "^4.7.5",
+    "socket.io-client": "^4.7.5"
   }
 }
