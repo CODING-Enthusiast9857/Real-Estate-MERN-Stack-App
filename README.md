@@ -5,6 +5,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-Backend-red)
 ![React](https://img.shields.io/badge/React-Frontend-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-red)
+![Prisma](https://img.shields.io/badge/Prisma-Database-white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-violet.svg)
 
 This project is a full-featured Real Estate website built using the MERN stack (MongoDB, Express.js, React, and Node.js). It allows users to browse, search, and view property listings, as well as providing features for property management and user authentication.
